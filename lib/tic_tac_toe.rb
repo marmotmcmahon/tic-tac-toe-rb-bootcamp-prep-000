@@ -1,3 +1,11 @@
 WIN_COMBINATIONS = [
   
+  
+  
+  
+  
+  
+  
+  
+  
   ]
