@@ -1,1 +1,3 @@
-WIN_COMBINATIONS = 
+WIN_COMBINATIONS = [
+  
+  ]
