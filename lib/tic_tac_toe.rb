@@ -1,6 +1,5 @@
 #!/usr/bin/env ruby
  
-require_relative '../lib/move.rb'
 
 WIN_COMBINATIONS = [
   [0,1,2],
